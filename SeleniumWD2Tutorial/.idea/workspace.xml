@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3c8c59f-ad82-4872-842a-de7259d57d60" name="Default" comment="" />
+    <ignored path="seleniumwd2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seleniumwd2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_suite_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/saucelabs/SauceLabsDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Login</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/questions/practice2.py" />
+        <option value="$PROJECT_DIR$/questions/WorkingWithElementsList-Practice.py" />
+        <option value="$PROJECT_DIR$/questions/2-airbnb-exercise1 - Practice.py" />
+        <option value="$PROJECT_DIR$/utilities/checkpoint.py" />
+        <option value="$PROJECT_DIR$/questions/you-brighton.py" />
+        <option value="$PROJECT_DIR$/questions/practice_java_script.py" />
+        <option value="$PROJECT_DIR$/questions/Practice.py" />
+        <option value="$PROJECT_DIR$/questions/Demo.py" />
+        <option value="$PROJECT_DIR$/findingelements/FindByLinkText.py" />
+        <option value="$PROJECT_DIR$/questions/linktext.py" />
+        <option value="$PROJECT_DIR$/questions/using_wrappers_demo2.py" />
+        <option value="$PROJECT_DIR$/questions/login_tests_expedia.py" />
+        <option value="$PROJECT_DIR$/questions/login_page_expedia.py" />
+        <option value="$PROJECT_DIR$/questions/login_tests_walmart1.py" />
+        <option value="$PROJECT_DIR$/questions/login_page_walmart.py" />
+        <option value="$PROJECT_DIR$/questions/login_tests_walmart.py" />
+        <option value="$PROJECT_DIR$/questions/selenium_driver.py" />
+        <option value="$PROJECT_DIR$/questions/zip_codes.py" />
+        <option value="$PROJECT_DIR$/questions/state_capitals.py" />
+        <option value="$PROJECT_DIR$/questions/FakerTest.py" />
+        <option value="$PROJECT_DIR$/questions/Kodeit.py" />
+        <option value="$PROJECT_DIR$/questions/browser_int.py" />
+        <option value="$PROJECT_DIR$/questions/calendar_selection.py" />
+        <option value="$PROJECT_DIR$/questions/create_insured_address.py" />
+        <option value="$PROJECT_DIR$/questions/login_search_for_agent_create_quote.py" />
+        <option value="$PROJECT_DIR$/advanced/javascript_execution.py" />
+        <option value="$PROJECT_DIR$/questions/clicktype.py" />
+        <option value="$PROJECT_DIR$/basicweb/RunSafariTests.py" />
+        <option value="$PROJECT_DIR$/utilities/handy_wrappers.py" />
+        <option value="$PROJECT_DIR$/questions/Monthly_Donations_suite.py" />
+        <option value="$PROJECT_DIR$/questions/loginPageElements.py" />
+        <option value="$PROJECT_DIR$/questions/google_search.py" />
+        <option value="$PROJECT_DIR$/basicweb/RunFFTestsDemo.py" />
+        <option value="$PROJECT_DIR$/basicweb/RunChromeTests.py" />
+        <option value="$PROJECT_DIR$/questions/test_question.py" />
+        <option value="$PROJECT_DIR$/basicweb/ChromeMaximize.py" />
+        <option value="$PROJECT_DIR$/questions/DropDownSelect1.py" />
+        <option value="$PROJECT_DIR$/questions/window_question.py" />
+        <option value="$PROJECT_DIR$/practice/airbnb_exercise1.py" />
+        <option value="$PROJECT_DIR$/practice/airbnb_exercise2.py" />
+        <option value="$PROJECT_DIR$/questions/practice_exercise1.py" />
+        <option value="$PROJECT_DIR$/questions/getAttribute.py" />
+        <option value="$PROJECT_DIR$/questions/getText1.py" />
+        <option value="$PROJECT_DIR$/questions/dynamic_xpath_format1.py" />
+        <option value="$PROJECT_DIR$/questions/scrolling_element1.py" />
+        <option value="$PROJECT_DIR$/questions/RadioButtonsAndCheckboxes1.py" />
+        <option value="$PROJECT_DIR$/questions/practice.py" />
+        <option value="$PROJECT_DIR$/questions/explicit_wait_demo.py" />
+        <option value="$PROJECT_DIR$/questions/elementsList.py" />
+        <option value="$PROJECT_DIR$/basicweb/RunFFTests.py" />
+        <option value="$PROJECT_DIR$/tests/test_suite_demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="6" />
+    <option name="width" value="2583" />
+    <option name="height" value="2079" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumWD2Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumWD2Tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumWD2Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumWD2Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="configfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumWD2Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumWD2Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="saucelabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice" />
+      <recent name="$PROJECT_DIR$/basicweb" />
+      <recent name="$PROJECT_DIR$/utilities" />
+      <recent name="$PROJECT_DIR$/base" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/questions" />
+      <recent name="$PROJECT_DIR$/questions/.cache" />
+      <recent name="$PROJECT_DIR$/wait_types" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_suite_demo">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seleniumwd2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="RunSafariTests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumWD2Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicweb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicweb/RunSafariTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elementsList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumWD2Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/questions/elementsList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="explicit_wait_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumWD2Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/questions/explicit_wait_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_suite_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumWD2Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_suite_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWD2Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/questions/practice.py" />
+      <option name="CLASS_NAME" value="Unittest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <module name="SeleniumWD2Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_legacyInformationCopiedToNew" value="true" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.explicit_wait_demo" />
+      <item itemvalue="Python.elementsList" />
+      <item itemvalue="Python.RunSafariTests" />
+      <item itemvalue="Python.test_suite_demo" />
+      <item itemvalue="Python tests.Unittests in Unittest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_suite_demo" />
+        <item itemvalue="Python.RunSafariTests" />
+        <item itemvalue="Python.elementsList" />
+        <item itemvalue="Python.explicit_wait_demo" />
+        <item itemvalue="Python tests.Unittests in Unittest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3c8c59f-ad82-4872-842a-de7259d57d60" name="Default" comment="" />
+      <created>1462774170212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462774170212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Monthly_Donations - 2017.03.15 at 15h 46m 51s.xml">
+      <configuration name="Unittests in Monthly_Donations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations - 2017.03.15 at 15h 47m 12s.xml">
+      <configuration name="Unittests in Monthly_Donations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations - 2017.03.15 at 15h 47m 32s.xml">
+      <configuration name="Unittests in Monthly_Donations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations - 2017.03.15 at 15h 48m 03s.xml">
+      <configuration name="Unittests in Monthly_Donations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations_(1) - 2017.03.15 at 15h 43m 23s.xml">
+      <configuration name="Unittests in Monthly_Donations (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations_(2) - 2017.03.15 at 15h 47m 04s.xml">
+      <configuration name="Unittests in Monthly_Donations (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations_(3) - 2017.03.15 at 15h 48m 39s.xml">
+      <configuration name="Unittests in Monthly_Donations (3)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Monthly_Donations_suite - 2017.03.15 at 15h 44m 50s.xml">
+      <configuration name="Unittests in Monthly_Donations_suite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Unittest - 2017.05.17 at 14h 17m 01s.xml">
+      <configuration name="Unittests in Unittest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_loginPageElements - 2017.03.18 at 14h 33m 13s.xml">
+      <configuration name="Unittests in loginPageElements" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="4" width="1722" height="1386" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15905045" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32775453" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" sideWeight="0.49722221" weight="0.42729488" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.52168024" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39398864" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3272727" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/questions/loginPageElements.py" />
+    <entry file="file://$PROJECT_DIR$/questions/google_search.py" />
+    <entry file="file://$PROJECT_DIR$/questions/login_tests3.py" />
+    <entry file="file://$PROJECT_DIR$/basicweb/RunChromeTests.py" />
+    <entry file="file://$PROJECT_DIR$/basicweb/ChromeMaximize.py" />
+    <entry file="file://$PROJECT_DIR$/questions/DropDownSelect1.py" />
+    <entry file="file://$PROJECT_DIR$/questions/window_question.py" />
+    <entry file="file://$PROJECT_DIR$/questions/Chromenofocus.py" />
+    <entry file="file://$PROJECT_DIR$/questions/practice_exercise1.py" />
+    <entry file="file://$PROJECT_DIR$/questions/getAttribute.py" />
+    <entry file="file://$PROJECT_DIR$/questions/getText1.py" />
+    <entry file="file://$PROJECT_DIR$/practice/airbnb_exercise2.py" />
+    <entry file="file://$PROJECT_DIR$/questions/dynamic_xpath_format1.py" />
+    <entry file="file://$PROJECT_DIR$/questions/scrolling_element1.py" />
+    <entry file="file://$PROJECT_DIR$/questions/RadioButtonsAndCheckboxes1.py" />
+    <entry file="file://$PROJECT_DIR$/questions/practice.py" />
+    <entry file="file://$PROJECT_DIR$/questions/test_question.py" />
+    <entry file="file://$PROJECT_DIR$/questions/explicit_wait_demo.py" />
+    <entry file="file://$PROJECT_DIR$/questions/handy_wrappers.py" />
+    <entry file="file://$PROJECT_DIR$/questions/elementsList.py" />
+    <entry file="file://$PROJECT_DIR$/basicweb/RunSafariTests.py" />
+    <entry file="file://$PROJECT_DIR$/basicweb/RunFFTestsDemo.py" />
+    <entry file="file://$PROJECT_DIR$/basicweb/RunFFTests.py" />
+    <entry file="file://$PROJECT_DIR$/practice/airbnb_exercise1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/element_present_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1088" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python35/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestClass1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/basetestcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <folding>
+            <element signature="e#290#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/mouse_hovering.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/calendar_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/webdriverfactory.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/geckodriver.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestClass2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/window_size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/scrolling_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/screenshots_generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/screenshots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/custom_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/driver_session.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/dynamic_xpath_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/getAttribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/handy_wrappers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIBaseTestCase.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseTestCase.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/using_wrappers_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/javascript_execution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/drag_and_drop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/GUIBaseTestCase.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_suite_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saucelabs/SauceLabsDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
