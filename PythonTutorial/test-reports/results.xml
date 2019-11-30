@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="5" time="0.088"><testcase classname="simplepythonapp.test_suite_demo.TestClass1" file="simplepythonapp\test_class1.py" line="30" name="test_add_floats" time="0.0021059513092041016"><system-out>*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Class 1 -&gt; class level setUp
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Class 1 -&gt; setUp
+Class 1 -&gt; tearDown
+</system-out></testcase><testcase classname="simplepythonapp.test_suite_demo.TestClass1" file="simplepythonapp\test_class1.py" line="23" name="test_add_integers" time="0.002252340316772461"><system-out>Class 1 -&gt; setUp
+Class 1 -&gt; tearDown
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Class 1 -&gt; class level tearDown
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+</system-out></testcase><testcase classname="simplepythonapp.test_suite_demo.TestClass2" file="simplepythonapp\test_class2.py" line="22" name="test_add_string_and_integer" time="0.0016984939575195312"><system-out>*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Class 2 -&gt; class level setUp
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Class 2 -&gt; setUp
+Class 2 -&gt; tearDown
+</system-out></testcase><testcase classname="simplepythonapp.test_suite_demo.TestClass2" file="simplepythonapp\test_class2.py" line="30" name="test_add_string_and_number" time="0.0012676715850830078"><system-out>Class 2 -&gt; setUp
+Class 2 -&gt; tearDown
+</system-out></testcase><testcase classname="simplepythonapp.test_suite_demo.TestClass2" file="simplepythonapp\test_class2.py" line="14" name="test_add_strings" time="0.0013768672943115234"><system-out>Class 2 -&gt; setUp
+Class 2 -&gt; tearDown
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Class 2 -&gt; class level tearDown
+*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+</system-out></testcase></testsuite>

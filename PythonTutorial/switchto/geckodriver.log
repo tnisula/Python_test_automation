@@ -1,0 +1,77 @@
+1533235438835	geckodriver	INFO	geckodriver 0.19.1
+1533235438850	geckodriver	INFO	Listening on 127.0.0.1:53531
+1533235441986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\tnisula\\AppData\\Local\\Temp\\rust_mozprofile.KarjvQk465Pu"
+1533235449739	Marionette	INFO	Listening on port 53548
+1533235449812	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 70: TypeError: Argument 1 of MutationObserver.observe is not an object.
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533235655101	geckodriver	INFO	geckodriver 0.19.1
+1533235655116	geckodriver	INFO	Listening on 127.0.0.1:53663
+1533235658205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\tnisula\\AppData\\Local\\Temp\\rust_mozprofile.QuAK7c2nh4im"
+1533235664014	Marionette	INFO	Listening on port 53671
+1533235664261	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533235805512	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533235950556	geckodriver	INFO	geckodriver 0.19.1
+1533235950556	geckodriver	INFO	Listening on 127.0.0.1:53796
+1533235953691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\tnisula\\AppData\\Local\\Temp\\rust_mozprofile.pXykURnJIDQ9"
+1533235959571	Marionette	INFO	Listening on port 53804
+1533235960002	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 70: TypeError: Argument 1 of MutationObserver.observe is not an object.
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7204, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+mium/src/chrome/common/ipc_channel_win.cc, line 346
+1534779208887	geckodriver	INFO	geckodriver 0.19.1
+1534779208918	geckodriver	INFO	Listening on 127.0.0.1:52224
+1534779212101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\tnisula\\AppData\\Local\\Temp\\rust_mozprofile.shkTDOhIuJ8P"
+1534779219936	Marionette	INFO	Listening on port 52232
+1534779220525	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://learn.letskodeit.com
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tnisula\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

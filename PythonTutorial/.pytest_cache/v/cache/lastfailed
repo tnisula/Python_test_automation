@@ -1,0 +1,7 @@
+{
+  "pytestpackage/test_class_demo1.py::TestClassDemo::()::test_methodA": true,
+  "pytestpackage/test_class_demo2.py::TestClassDemo::()::test_methodA": true,
+  "pytestpackage/test_reporting_demo.py::TestReportingDemo::()::test_methodB": true,
+  "simplepythonapp/test_suite_demo.py::TestClass1": true,
+  "simplepythonapp/test_suite_demo.py::TestClass2": true
+}

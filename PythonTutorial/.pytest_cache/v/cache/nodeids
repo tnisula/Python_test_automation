@@ -1,0 +1,11 @@
+[
+  "simplepythonapp/test_suite_demo.py::TestClass1::test_add_floats",
+  "simplepythonapp/test_suite_demo.py::TestClass1::test_add_integers",
+  "simplepythonapp/test_suite_demo.py::TestClass2::test_add_string_and_integer",
+  "simplepythonapp/test_suite_demo.py::TestClass2::test_add_string_and_number",
+  "simplepythonapp/test_suite_demo.py::TestClass2::test_add_strings",
+  "unittestpackage/test_suite_demo.py::TestClass1::test_class1_methodA",
+  "unittestpackage/test_suite_demo.py::TestClass1::test_class1_methodB",
+  "unittestpackage/test_suite_demo.py::TestClass2::test_class2_methodA",
+  "unittestpackage/test_suite_demo.py::TestClass2::test_class2_methodB"
+]
