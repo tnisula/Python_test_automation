@@ -1,2 +1,0 @@
-This is an example of With As write/read
-('the answer', 42)
